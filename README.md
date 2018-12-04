@@ -65,7 +65,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Manaram Technology](http://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mantra Ideas Pvt. Ltd.](http://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
 - [Mercantile Communications Pvt. Ltd.](http://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
-- [Merobato R&D Hub](http://merobato.com) | tarakeshwor-5 Balaju, Kathmandu | Data research and development along with the skilled hr development via fellowship program. 
+- [Merobato R&D Hub](http://merobato.com) | Tarakeshwor-5 Balaju, Kathmandu | Data research and development along with the skilled hr development via fellowship program 
 - [Mhuchya Technology](https://mhuchya.com.np) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
 - [nLocate](https://nlocate.com) | Harihar Bhawan, Lalitpur | Locate services, businesses, events around you
 
