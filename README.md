@@ -23,6 +23,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 ## A - C
 - [Anubhabi Technologies Pvt. Ltd.](http://www.anubhabi.com/) | Koteshwor, Kathmandu | At Anubhabi we provide high-end online web and software development solutions to start-ups and medium to large scale companies
 - [Asimisoft Pvt. Ltd.](http://www.asimisoft.com) IT and Software Solutions
+- [Astranix Technologies Pvt. Ltd.](https://astranix.com/) | Bharatpur, Chitwan, Nepal | Talented Design Ninjas, Enthusiast Developers, WP-Geeks, Python Heroes, Linux Sysadmins and King of Contents in Single Marketplace
 - [Avionte Solutions](http://www.avionte.com/) | Buddhanagar, Kathmandu | A robust staffing solution
 - [Awecode](http://awecode.com/) - | Buddhanagar, Kathmandu | We build awesome applications
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
