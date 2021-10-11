@@ -29,7 +29,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 - [Bidhee Pvt. Ltd.](http://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [big B soft](http://bigbsoft.com/) | Nayabazar, Kathmandu | Native - iOS app development agency
 - [Bits Innovation](http://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
-- [Bottle Technology](https://bottle.com.np/) | Jamshikhel, Lalitpur | Bottle is a fintech company mostly specializing in the space of Artificial Intelligence, Behavioral Economics and Internet of Things to create products in the domain of personal and financial behavior.
+- [Bottle Technology](https://bottle.com.np/) | Jhamshikhel, Lalitpur | A fintech company mostly specializing in the space of Artificial Intelligence, Behavioral Economics and Internet of Things.
 - [Braindigit](http://www.braindigit.com/) | Gyaneshwor, Kathmandu | Building applications for businesses and mobile on a native platform, with driven project teams you can call yours
 - [BroadLink Network and Communication Pvt. Ltd.](https://broadlink.com.np/) | Sanepa, Lalitpur | Internet Service Provider
 - [Classic Tech Pvt. Ltd.](https://www.classic.com.np/) | New Baneshwor, Kathmandu | Internet Service Provider (ISP) and Network Service Provider (NSP)
